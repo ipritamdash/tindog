@@ -1,2 +1,1 @@
-# tindog
-A Tinder for Dogs
+HEY THERE
